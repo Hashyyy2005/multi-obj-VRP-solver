@@ -43,6 +43,10 @@ Generations for hybrid NSGA and ALNS model
 Results of Hybrid Model
 <img width="1989" height="1189" alt="download (1)" src="https://github.com/user-attachments/assets/08d49ed1-2553-40d7-8e75-9b4fd4fef25d" />
 
+Pareto front od new model
+<img width="574" height="586" alt="image" src="https://github.com/user-attachments/assets/caeb6167-d94e-4901-b114-9f090cca68ed" />
+
+
 
 *   **Proven Performance:** The hybrid model found a 'Most Cost-Focused' route that was **7% more efficient** than the best route from the standard NSGA-II model.
 *   **Strategic Decision Support:** The final output provides a clear, data-driven menu of elite solutions, empowering a business to choose a route that directly aligns with its strategic priority for the day.
